@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Dec 18 08:48:53 2025
+[*]
+[dumpfile] "C:\Users\karri\OneDrive - TUNI.fi\Tiedostot\Verilog\SPEDE\dump.vcd"
+[dumpfile_mtime] "Wed May 31 10:16:48 2023"
+[dumpfile_size] 16934
+[savefile] "C:\Users\karri\OneDrive - TUNI.fi\Tiedostot\Verilog\SPEDE\run.gtkw"
+[timestart] 0
+[size] 2560 1369
+[pos] -61 -61
+*-11.859472 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 423
+@22
+cdr_tb.control[127:0]
+@28
+cdr_tb.refclk
+cdr_tb.rx
+@22
+cdr_tb.status[127:0]
+@28
+cdr_tb.word_clock_final
+@22
+cdr_tb.word_final[9:0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Dec 18 08:51:38 2025
+[*]
+[dumpfile] "C:\Users\karri\OneDrive - TUNI.fi\Tiedostot\Verilog\SPEDE\dump.vcd"
+[dumpfile_mtime] "Thu Dec 18 08:49:39 2025"
+[dumpfile_size] 17266
+[savefile] "C:\Users\karri\OneDrive - TUNI.fi\Tiedostot\Verilog\SPEDE\run_cdr.gtkw"
+[timestart] 0
+[size] 2560 1369
+[pos] -139 -139
+*-11.859472 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] cdr_tb.
+[treeopen] cdr_tb.cdr.
+[treeopen] cdr_tb.cdr.sam.
+[sst_width] 197
+[signals_width] 158
+[sst_expanded] 1
+[sst_vpaned_height] 423
+@28
+cdr_tb.cdr.ws.clk
+@22
+cdr_tb.cdr.ws.count[3:0]
+@28
+cdr_tb.cdr.ws.data
+cdr_tb.cdr.ws.master_reset
+cdr_tb.cdr.ws.reset_n
+cdr_tb.cdr.ws.reset_sync
+@22
+cdr_tb.cdr.ws.shift[9:0]
+cdr_tb.cdr.ws.shift_clock[4:0]
+@28
+cdr_tb.cdr.ws.sync_acquired
+cdr_tb.cdr.ws.sync_inverse
+@22
+cdr_tb.cdr.ws.sync_word[9:0]
+cdr_tb.cdr.ws.word[9:0]
+@28
+cdr_tb.cdr.ws.word_clock
+cdr_tb.cdr.ws.word_clock_final
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,36 @@
+`timescale 1ns/10ps
+module sampler_tb;
+
+  reg clk8x;
+  reg rx;
+  wire data;
+  wire dataclock;
+  
+  
+  
+  sampler #(.SYNC_STAGES(3)) dut(clk8x, rx, data, dataclock);
+  
+  initial
+    begin
+      $dumpfile("dump.vcd");
+      $dumpvars(2,sampler_tb);
+      $display("Hello sampler!");
+    end
+
+  initial
+    begin
+      clk8x = 0;
+      rx = 0;
+    end 
+
+  always #1  clk8x =  ! clk8x; 
+  initial
+    begin
+      #104  rx = 1; // phase 0 will be the first to see this
+      while (1) #17   rx = !rx;
+    end
+  
+  initial #500  $finish;
+
+  
+endmodule

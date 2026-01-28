@@ -1,0 +1,35 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Thu Dec 18 08:52:39 2025
+[*]
+[dumpfile] "C:\Users\karri\OneDrive - TUNI.fi\Tiedostot\Verilog\SPEDE\dump.vcd"
+[dumpfile_mtime] "Thu Dec 18 08:51:45 2025"
+[dumpfile_size] 8235
+[savefile] "C:\Users\karri\OneDrive - TUNI.fi\Tiedostot\Verilog\SPEDE\run_filter.gtkw"
+[timestart] 0
+[size] 2560 1369
+[pos] -191 -191
+*-18.508663 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] filter_tb.
+[sst_width] 197
+[signals_width] 166
+[sst_expanded] 1
+[sst_vpaned_height] 423
+@28
+filter_tb.filt.clk
+@22
+filter_tb.filt.clock_filter[3:0]
+@28
+filter_tb.filt.clock_sync_1
+filter_tb.filt.clock_sync_2
+filter_tb.filt.clock_sync_3
+filter_tb.filt.word_clock_in
+filter_tb.filt.word_clock_out
+@22
+filter_tb.filt.word_in[9:0]
+filter_tb.filt.word_out[9:0]
+filter_tb.filt.word_sync_1[9:0]
+filter_tb.filt.word_sync_2[9:0]
+filter_tb.filt.word_sync_3[9:0]
+[pattern_trace] 1
+[pattern_trace] 0
